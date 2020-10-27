@@ -1,0 +1,39 @@
+﻿/*.header {
+    width: 100%;
+    padding: 5px 0;
+    text-align: center;
+    background: #4caf50;
+    color: white;
+}
+
+.logo_header {
+    padding: 5px 0;
+    margin-left: 50px;
+    background: #fff;
+    color: white;
+}
+
+h1 {
+    font-size: 2.8em;
+    padding: 5px 0;
+    font-weight: 800;
+}
+
+.footerlinks{
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+.footerlinks:hover {
+    color: #000;
+}
+
+#footer1 {
+    background: #4e7b43;
+}
+
+#footer2 {
+    background: #1e5631;
+}
+
+*/

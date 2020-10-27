@@ -1,0 +1,31 @@
+﻿/** {
+    margin: 0;
+    padding: 0;
+}
+
+#product-header h1 {
+    color: #f2f2f2;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#grid-featured {
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: repeat(3, 250px);
+    justify-content: center;
+    margin: 60px 0 140px;
+}
+
+#grid-featured img {
+    width: 100%;
+}
+
+#grid-featured h3 {
+    color: #f2f2f2;
+    font-weight: 700;
+    margin-top: 10px;
+    text-align: center;
+}*/
